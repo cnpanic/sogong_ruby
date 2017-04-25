@@ -1,0 +1,9 @@
+<h1><%=@message %></h1>
+<p>This is a greeting coming from index view.</p>
+
+<% @count.times do %>
+	<p><%= @bonus %></p>
+<% end %>
+
+<h1>Hello, it is me!</h1>
+<%= link_to 'My Favorite Movies', controller: 'movies' %>
