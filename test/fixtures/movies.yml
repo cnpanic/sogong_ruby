@@ -1,9 +1,18 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  title: MyString
-  information: MyText
+big:
+  title: My Big Daddy
+  information: My Big Daddy's great experience
 
-two:
-  title: MyString
-  information: MyText
+small:
+  title: My small Daddy
+  information: My small daddy's great experience
+  
+medium:
+  title: My Medium Daddy
+  information: My medium daddy's great experience
+  
+unusual:
+  title: My unusual Daddy
+  information: My unusual daddy's great experience
+
